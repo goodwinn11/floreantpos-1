@@ -1,0 +1,9 @@
+﻿I. Back Office:
+1. Defining Multiplers --> Rate --> Price ?
+2. Pizza Item Entry
+3. Pizza Toppings
+4. Pizza Price, Size and Crust(vỏ bánh)
+5. Single Slice Entry
+
+D:\msdev\Cenvisco\development\Presentation\Nop.Web\Content\Images\Thumbs
+0000095_nutella-pizza_80
