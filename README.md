@@ -1,3 +1,4 @@
+Это по другому предмету изучаем
 # floreantpos
 Floreant is one of the first known enterprise-grade restaurant POS released in public domain. It has stable growth in last six years and according to google statistics it’s the most used restaurant POS
 
